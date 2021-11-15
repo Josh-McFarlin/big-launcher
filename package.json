@@ -17,6 +17,12 @@
     ],
     "nohoist": [
       "**/@react-native-async-storage/async-storage",
+      "**/@react-navigation/drawer",
+      "**/@react-navigation/native",
+      "**/@react-navigation/stack",
+      "**/react-native-safe-area-context",
+      "**/react-native-screens",
+      "**/react-native-webview",
       "**/react",
       "**/react-dom",
       "**/react-native",

@@ -2,8 +2,8 @@
   "name": "@my-app/electron",
   "version": "0.0.0",
   "private": true,
-  "author": "John Doe",
-  "description": "My fantastic Electron app",
+  "author": "Josh McFarlin",
+  "description": "A big launcher for apps",
   "main": "./public/electron.js",
   "homepage": "./",
   "scripts": {
