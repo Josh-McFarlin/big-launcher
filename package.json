@@ -32,13 +32,13 @@
     "macos:pods": "yarn workspace @my-app/macos pods",
     "windows:metro": "yarn workspace @my-app/windows start",
     "windows:start": "yarn workspace @my-app/windows windows",
-    "next:start": "yarn workspace @my-app/next dev",
-    "next:build": "yarn workspace @my-app/next build",
-    "next:serve": "yarn workspace @my-app/next start",
     "electron:start": "yarn workspace @my-app/electron start",
     "electron:package:mac": "yarn workspace @my-app/electron package:mac",
     "electron:package:win": "yarn workspace @my-app/electron package:win",
-    "electron:package:linux": "yarn workspace @my-app/electron package:linux"
+    "electron:package:linux": "yarn workspace @my-app/electron package:linux",
+    "next:start": "yarn workspace @my-app/next dev",
+    "next:build": "yarn workspace @my-app/next build",
+    "next:serve": "yarn workspace @my-app/next start"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.29.3",
