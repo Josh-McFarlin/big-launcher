@@ -17,7 +17,7 @@ Work in progress...
 
 ### Install
 
-1. Clone the repository: `https://github.com/Josh-McFarlin/big-launcher`
+1. Clone the repository: `git clone https://github.com/josh-mcfarlin/big-launcher`
 2. Run yarn install `cd big-launcher && yarn` 
 
 ### Available commands

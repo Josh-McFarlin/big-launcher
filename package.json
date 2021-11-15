@@ -4,6 +4,13 @@
   "private": true,
   "author": "Josh McFarlin <josh@mcfarl.in>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/josh-mcfarlin/big-launcher.git"
+  },
+  "bugs": {
+    "url": "https://github.com/josh-mcfarlin/big-launcher/issues"
+  },
   "workspaces": {
     "packages": [
       "packages/*"
